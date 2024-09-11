@@ -20,6 +20,4 @@ public class User {
     private String email;
     private String userName;
     private String password;
-
-    // Constructors, Getters, and Setters
 }

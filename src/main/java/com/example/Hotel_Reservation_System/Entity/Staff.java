@@ -24,6 +24,5 @@ public class Staff {
     private String password;
     private String role; // E.g., "Manager", "Waiter", etc.
 
-    // Constructors, Getters, and Setters
 }
 

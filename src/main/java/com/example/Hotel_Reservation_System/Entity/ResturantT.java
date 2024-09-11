@@ -16,6 +16,4 @@ public class ResturantT {
 
     private boolean isAvailable;
     private String type; // e.g., "Regular", "VIP"
-
-    // Constructors, Getters, and Setters
 }
